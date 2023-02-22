@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @jiangege
-- 👀 I’m interested in web3
-- 🌱 I’m currently learning solidity
 - 📫 How to reach me jiangege47@gmail.com
 
 <!---
